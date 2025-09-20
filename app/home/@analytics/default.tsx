@@ -1,6 +1,5 @@
 "use client";
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from "recharts";
-
 const data = [
   { day: "Mon", flights: 40 },
   { day: "Tue", flights: 30 },

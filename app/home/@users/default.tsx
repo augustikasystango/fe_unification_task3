@@ -6,7 +6,7 @@ export default function UsersPage() {
   ];
 
   return (
-    <div className="bg-white shadow rounded-lg p-6">
+     <div className="bg-white shadow rounded-lg p-6">
       <h2 className="text-lg font-semibold mb-4">Users</h2>
       <div className="space-y-3">
         {users.map((u) => (
